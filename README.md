@@ -1,7 +1,7 @@
 ### Hi there, I'm Shahab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/-saalami-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saalami/)](https://www.linkedin.com/in/saalami/)
 [![Website Badge](https://img.shields.io/badge/-slmi.ir-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://slmi.ir)](https://slmi.ir)
-[![Twitter Badge](https://img.shields.io/badge/-@shahab.saalami-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shahab.saalami
+[![Twitter Badge](https://img.shields.io/badge/-@Shahab_saalami-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Shahab_saalami
 )](https://twitter.com/shahab.saalami)
 [![Instagram Badge](https://img.shields.io/badge/-@shahab_saalami-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/shahab_saalami/)](https://instagram.com/shahab_saalami)
 [![Gmail Badge](https://img.shields.io/badge/-shab.salami-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shab.salami@gmail.com)](mailto:shab.salami@gmail.com) 
