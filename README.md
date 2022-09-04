@@ -1,6 +1,6 @@
 ### Hi there, I'm Shahab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/-saalami-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saalami/)](https://www.linkedin.com/in/saalami/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/4858757/shahab-saalami)]
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/4858757/shahab-saalami)]
 (https://stackoverflow.com/users/4858757/shahab-saalami)
 [![Website Badge](https://img.shields.io/badge/-slmi.ir-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://slmi.ir)]
 (https://slmi.ir)
